@@ -1,3 +1,5 @@
 # ee478-Drone
 
-please refer to the pdf for final presentation slides.
+Please refer to the pdf for final presentation slides.
+
+**NOTE: You may need to download raw pdf to view images.
